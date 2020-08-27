@@ -1,0 +1,7 @@
+.idea
+TestOlinebc/__pycache__/
+app/operation/__pycache__/
+app/TOBC/__pycache__/
+app/users/__pycache__/
+extra_apps/xadmin/__pycache__/
+#因为学校内部在使用，面前关闭部分代码的开源
